@@ -8,7 +8,7 @@ These algorithms serve various purposes, including finding the shortest path bet
 
 ## Implemented Algorithms ## 
 
-•**DAG (Directed Acyclic Graph)**
+• **DAG (Directed Acyclic Graph)**
 
 Algorithms for processing directed graphs that lack cycles.
 
