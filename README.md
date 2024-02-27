@@ -8,50 +8,50 @@ These algorithms serve various purposes, including finding the shortest path bet
 
 ## Implemented Algorithms ## 
 
-• DAG (Directed Acyclic Graph)
+•**DAG (Directed Acyclic Graph)**
 
 Algorithms for processing directed graphs that lack cycles.
 
-• DFS (Depth-First Search)
+• **DFS (Depth-First Search)**
 
 Traversal method that explores as deeply as possible along each branch before backtracking.
 
-• BFS (Breadth-First Search)
+• **BFS (Breadth-First Search)**
 
 Traversal technique that explores all vertices at the same level before moving to the next level.
 
-• Dijkstra's Algorithm
+• **Dijkstra's Algorithm**
 
 Determines the shortest paths between nodes in a graph with weighted edges.
 
-•Levenshtein Distance
+• **Levenshtein Distance**
 
 Computes the minimum number of single-character edits needed to transform one string into another.
 
-•Edmonds-Karp Algorithm
+• **Edmonds-Karp Algorithm**
 
 Identifies the maximum flow in a network with flows.
 
-• Floyd-Warshall Algorithm
+• **Floyd-Warshall Algorithm**
 
 Calculates the shortest paths between every pair of vertices in a weighted graph.
 
-• Kahn's Algorithm 
+• **Kahn's Algorithm**
 
 Discovers a topological ordering of a directed acyclic graph.
 
-• Kosaraju's Algorithm
+• **Kosaraju's Algorithm**
 
 Identifies strongly connected components within a directed graph.
 
-•Kruskal's Algorithm
+• **Kruskal's Algorithm**
 
 Determines a minimum spanning tree for a connected, undirected graph.
 
-•Prim's Algorithm
+• **Prim's Algorithm**
 
 Finds a minimum spanning tree for a connected, undirected graph.
 
-•Tarjan's Algorithm
+• **Tarjan's Algorithm**
 
 Identifies strongly connected components within a directed graph.
